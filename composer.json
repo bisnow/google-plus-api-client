@@ -1,15 +1,15 @@
 {
-    "name": "google/api-client",
+    "name": "bisnow/api-client",
     "type": "library",
     "description": "PHP Client for Google APIs",
-    "keywords": ["php", "google", "api", "client", "analytics", "plus", "adwords", "adsense", "compute", "chrome", "youtube", "drive", "search"],
-    "homepage": "https://github.com/block8/google-api",
+    "keywords": ["php", "google", "api"],
+    "homepage": "https://github.com/bisnow/google-api",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Dan Cryer",
-            "email": "dan@block8.co.uk",
-            "homepage": "http://www.block8.co.uk/"
+            "name": "Bisnow",
+            "email": "it@bisnow.com",
+            "homepage": "http://www.bisnow.com/"
         },
         {
             "name": "Google",
