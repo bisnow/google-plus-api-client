@@ -3,7 +3,7 @@
     "type": "library",
     "description": "PHP Client for Google APIs",
     "keywords": ["php", "google", "api"],
-    "homepage": "https://github.com/bisnow/google-api",
+    "homepage": "https://github.com/bisnow/bisnow/google-plus-api-client",
     "license": "Apache-2.0",
     "authors": [
         {
